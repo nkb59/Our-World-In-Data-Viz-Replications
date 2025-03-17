@@ -1,15 +1,9 @@
-The website Our World (https://ourworldindata.org/) contains articles and datasets on a variety of topics, including:
+![image](https://github.com/user-attachments/assets/3b619521-a70c-47fb-9194-edef9ba4ca8a)
 
-Demographic change
-Health
-Food and agriculture
-Energy and environment
-Innovation
-Poverty and living conditions
-Human rights and democracy
-Violence
+
+The website Our World in Data (https://ourworldindata.org/) contains articles and datasets on various topics.
 Education
 
-The goal for this project is to replicate and recreate some visualizations using Tableau.
+This project aims to replicate and recreate some visualizations of Our World in Data using Tableau.
 
 ***All the links to the original visualizations that have been recreated can be found in the attached PDF***
